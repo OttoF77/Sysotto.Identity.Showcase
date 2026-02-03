@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.user
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+bin/
+obj/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Temporary files
+*.tmp
+*.log
+.temp
+
+# OS
+Thumbs.db
